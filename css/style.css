@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css?family=Courgette|Libre+Baskerville');
+/* === CSS RESET === */
+* {
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	}
+
+
+
+html, body {width: 100%;
+	background-color: #f0f0f0;
+	font-color: midnightblue;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 10px;
+}
+
+
+h1, h2{padding: 20px;
+
+}
+
+h1 { font-family:"Palatino Linotype", "Times New Roman", "serif";
+	text-shadow: 2px 2px 2px #aaa;
+
+}
+
+h2 {font-family: "Palatino Linotype", "Times New Roman", "serif";
+	font-size: 16;
+}
+
+
+#s2 img {
+	width: 100%;
+	height: 100%;
+
+}
